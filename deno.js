@@ -1,4 +1,5 @@
-function fire() {
+function fireAgain() {
   console.log("deno started");
 }
-fire();
+
+fireAgain();
